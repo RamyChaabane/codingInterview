@@ -12,6 +12,3 @@ Example:
 - Input: 2226668822266688
 - Output: coucou
 
-Not Taken:
-- Input: 77772555888
-- Output: salut/salv
