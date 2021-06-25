@@ -1,4 +1,4 @@
-# codingInterview
+# coding Interview
 
 Given a string containing digits from 2-9 inclusive, return the world that the number could represent.
 
